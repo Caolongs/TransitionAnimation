@@ -115,5 +115,4 @@ self.navigationController.delegate = self;
                                               toViewController:(UIViewController *)toVC;
 ```
 
-`盗图`
-![TransitionAnimation.png](http://upload-images.jianshu.io/upload_images/1804437-2b9f822ad54e1695.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
